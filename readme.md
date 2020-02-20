@@ -7,3 +7,5 @@
 [AWS Certified Machine Learning-Specialty (ML-S)](https://learning.oreilly.com/videos/aws-certified-machine/9780135556597). This course covers the essentials of Machine Learning on AWS and prepares a candidate to sit for the AWS Machine Learning-Specialty (ML-S) Certification exam. Four main categories are covered: Data Engineering, EDA (Exploratory Data Analysis), Modeling, and Operations.
 
 [Math for Machine Learning](https://www.aws.training/Details/eLearning?id=26597). To understand modern machine learning, you also need to understand vectors and matrices, linear algebra, probability theorems, univariate calculus, and multivariate calculus.
+
+[Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning). This course will teach you how to get started with AWS Machine Learning. Key topics include: Machine Learning on AWS, Computer Vision on AWS, and Natural Language Processing (NLP) on AWS. Each topic consists of several modules deep-diving into variety of ML concepts, AWS services as well as insights from experts to put the concepts into practice.

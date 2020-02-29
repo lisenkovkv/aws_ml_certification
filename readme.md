@@ -3,8 +3,10 @@
 
 [Amazon Machine Learning Documentation](https://docs.aws.amazon.com/machine-learning/index.html). Amazon Machine Learning makes it easy for developers to build smart applications, including applications for fraud detection, demand forecasting, targeted marketing, and click prediction. The powerful algorithms of Amazon Machine Learning create machine learning (ML) models by finding patterns in your existing data. The service uses these models to process new data and generate predictions for your application.
 
-# Python libraries
-[SageMaker Python SDK](https://github.com/aws/sagemaker-python-sdk).SageMaker Python SDK is an open source library for training and deploying machine learning models on Amazon SageMaker.
+# Python
+[SageMaker Python SDK](https://github.com/aws/sagemaker-python-sdk) is an open source library for training and deploying machine learning models on Amazon SageMaker.
+
+[Amazon SageMaker Examples](https://github.com/awslabs/amazon-sagemaker-examples/blob/master/README.md). This repository contains example notebooks that show how to apply machine learning and deep learning in Amazon SageMaker.
 
 # Courses
 [AWS Certified Machine Learning-Specialty (ML-S)](https://learning.oreilly.com/videos/aws-certified-machine/9780135556597). This course covers the essentials of Machine Learning on AWS and prepares a candidate to sit for the AWS Machine Learning-Specialty (ML-S) Certification exam. Four main categories are covered: Data Engineering, EDA (Exploratory Data Analysis), Modeling, and Operations.
